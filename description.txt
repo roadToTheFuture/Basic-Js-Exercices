@@ -1,0 +1,2 @@
+This repositori include Basic JavaScript Exercices.
+PS: And i also try to write description on English leanguage everywhere;
